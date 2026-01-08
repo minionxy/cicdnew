@@ -1,9 +1,10 @@
 import React from 'react'
+import Welcome from './components/welcome.jsx'
 
 const App = () => {
   return (
     <div>
-      <h1>WELCOME TO FISAT</h1>
+      <Welcome /> 
     </div>
   )
 }
