@@ -1,10 +1,9 @@
 import React from 'react'
-import Welcome from './components/welcome.jsx'
 
 const App = () => {
   return (
     <div>
-      <Welcome /> 
+      <h1>WELCOME</h1>
     </div>
   )
 }
